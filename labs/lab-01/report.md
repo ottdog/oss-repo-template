@@ -15,4 +15,15 @@ Two additonal suggestions to answer questions helpfully:
 2-4:
 
 I've taken away multiple things from this reading. First, from a practical perspective, if I plan on doing anything that could possibly anger the RIAA, I should plan on giving any assests I have to someone else first to reduce the amount they can ask for in a settlement. More importantly, from a philosophical perspective, a strong case can be made that the current American copyright system is broken. Ideally, we'd want a system that encourages creativity and innovation as that generally tends to improve people's quality of life. However here we have a case where a corperation used the legal code to actively punish someone for making life easier for the thousands of people at his university. <Make more coherent point later>
+
+3-3:
+
+![alt text](https://media.discordapp.net/attachments/599425909447196694/932040097459757096/unknown.png?width=493&height=557)
   
+4-1:
+  
+4-2:
+  
+5-2:
+  
+![alt text](https://media.discordapp.net/attachments/599425909447196694/932047845836607618/unknown.png?width=614&height=557)
