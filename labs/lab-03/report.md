@@ -1,10 +1,10 @@
-TABLE 3
+**TABLE 3**
 
-Alvitr Pixiv crawler:
+**Alvitr Pixiv crawler:**
 
 
 
-Stats by hand:
+*Stats by hand:*
 
 Three contributors
 
@@ -16,7 +16,7 @@ First commit was 2017-04-09, last was 2017-06-21
 
 
 
-stats by Gitstats:
+*stats by Gitstats:*
 
 Contributions from 5 accounts (at least two of which seem to belong to belong to Kaijian Zhong)
 
@@ -28,7 +28,7 @@ apears to have one branch
 
 
 
-gitstats for Alpaca
+**gitstats for Alpaca**
 
 21 authors
 
@@ -40,7 +40,7 @@ appears to have one branch
 
 
 
-gitstats for Anagram game remake
+**gitstats for Anagram game remake**
 
 2 authors
 
@@ -52,4 +52,4 @@ appears to have one branch
 
 
 
-Other links were dead
+**Other links were dead**
