@@ -21,6 +21,8 @@ H = $\begin{bmatrix}
 
 ![alt text](https://camo.githubusercontent.com/c6f3160eea3f1612b13ac729d2c0b232f5e44f4fb158e7eed85ae8ed3b99240c/68747470733a2f2f692e696d6775722e636f6d2f3049396178416a2e706e67)
 
+(Image and code from team mate Nick Lennox)
+
 **PART 2**
 
 **Alvitr Pixiv crawler:**
