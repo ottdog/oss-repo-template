@@ -4,16 +4,22 @@
 
 Formulae in LaTeX:
 
+```
 $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$
 $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
+```
 
 Matrix in LaTeX:
+```
 H = $\begin{bmatrix}
 1 & 1 & 1 & 1 & 1 \\
 -1 & 1 & -1 & 1 & 1 \\
 -1 & -1 & 1 & 1 & 1 \\
 1 & -1 & -1 & 1 & 1 \\
 \end{bmatrix}$
+```
+
+![alt text](https://camo.githubusercontent.com/c6f3160eea3f1612b13ac729d2c0b232f5e44f4fb158e7eed85ae8ed3b99240c/68747470733a2f2f692e696d6775722e636f6d2f3049396178416a2e706e67)
 
 **PART 2**
 
