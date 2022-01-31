@@ -1,5 +1,22 @@
 **TABLE 3**
 
+**PART 1**
+
+Formulae in LaTeX:
+
+$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$
+$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
+
+Matrix in LaTeX:
+H = $\begin{bmatrix}
+1 & 1 & 1 & 1 & 1 \\
+-1 & 1 & -1 & 1 & 1 \\
+-1 & -1 & 1 & 1 & 1 \\
+1 & -1 & -1 & 1 & 1 \\
+\end{bmatrix}$
+
+**PART 2**
+
 **Alvitr Pixiv crawler:**
 
 
@@ -28,7 +45,11 @@ apears to have one branch
 
 
 
-**gitstats for Alpaca**
+**Alpaca**
+
+*teammate has not shared stats by hand*
+
+*Gitstats*
 
 21 authors
 
@@ -40,7 +61,19 @@ appears to have one branch
 
 
 
-**gitstats for Anagram game remake**
+**Anagram game remake**
+
+*stats by hand*
+
+*sats by hand (Carden)*
+# Anagrams: https://github.com/tdurkin18/anagrams
+- 2 contributors
+- 19809 lines of code
+- First commit to main branch Wednesday August 14, 2019
+- Last commit to main branch Friday August 16, 2019
+- Current branches include JakeV1, sameLetters, gameBoard, correct
+
+*gitstats*
 
 2 authors
 
