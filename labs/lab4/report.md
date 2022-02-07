@@ -7,4 +7,6 @@
 
 6. Based on the linked Wikipedia article, Sailfish OS was a propitary OS developed for Jolla phones and tablets. To me, I can see a justification to keep it closed source because for most users, the only thing really distinguishing one phone from another is the operating system's user experience. By making the operating system open source, that allows competitors in the hardware space use Sailfish on their own products, which would take away any competitive advantage Jolla would have had in the software realm and force them to compete only on providing better hardware for less.
 
-7. 
+7. https://github.com/ottdog/OpenRansomWare
+
+
