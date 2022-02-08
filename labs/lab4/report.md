@@ -11,10 +11,10 @@
 
 8.
 
-|                        Project                       | Licence? | Licence |
+|                        Project                       | Licence? |      Licence       |
 |------------------------------------------------------|----------|--------------------|
-|https://github.com/rpi-alpaca/alpaca                  |    Yes   |    MIT License     |
-|https://github.com/cisprague/astro.iq                 |    Yes   |    MIT License     |
-|https://github.com/alexanderfrancoletti/beyondthegrave|    Yes   |    MIT License     |
-|https://github.com/adamprimak/brewme                  |    Yes   | Apache-2.0 License |
-|https://github.com/casey-c/egg                        |    Yes   |    MIT License     |
+|https://github.com/rpi-alpaca/alpaca                  |   Yes    |    MIT License     |
+|https://github.com/cisprague/astro.iq                 |   Yes    |    MIT License     |
+|https://github.com/alexanderfrancoletti/beyondthegrave|   Yes    |    MIT License     |
+|https://github.com/adamprimak/brewme                  |   Yes    | Apache-2.0 License |
+|https://github.com/casey-c/egg                        |   Yes    |    MIT License     |
