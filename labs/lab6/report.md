@@ -97,6 +97,58 @@ take
 
 5 letter modified
 ```
-
+Loaded words_dat.txt containing a bunch of five-letter English words.
+Two words are connected if they differ in one letter.
+Graph has 5757 nodes with 39485 edges
+137 connected components
+Shortest path between chaos and order is
+chaos
+chars
+hares
+arose
+doers
+order
+Shortest path between plots and graph is
+plots
+slots
+stoas
+casts
+chats
+patch
+parch
+graph
+Shortest path between moron and smart is
+moron
+moons
+loons
+looms
+molto
+molts
+atoms
+smart
+Shortest path between flies and swims is
+flies
+filet
+feist
+fiats
+fasts
+masts
+mists
+swims
+Shortest path between mango and peach is
+mango
+gonna
+canon
+canoe
+pecan
+peach
+Shortest path between pound and marks is
+pound
+ponds
+dipso
+roids
+dorks
+okras
+marks
 ```
 
